@@ -3,8 +3,7 @@ import Ball from "./Ball";
 
 export default function Index() {
   return (
-    <View
-    >
+    <View>
       <Ball />
     </View>
   );
